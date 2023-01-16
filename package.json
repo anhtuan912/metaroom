@@ -29,6 +29,5 @@
         "not op_mini all"
     ],
     "devDependencies": {
-        "webpack-dev-server": "^4.11.1"
     }
 }
